@@ -149,7 +149,7 @@
             <div class="page" id="page-mahasiswa">
                 <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:20px;flex-wrap:wrap;gap:10px">
                     <div class="page-title" style="margin:0">
-                        <h2>Data Mahasiswa</h2>
+                        <h2>Data</h2>
                         <p>Kelola data mahasiswa terdaftar</p>
                     </div>
                     <button class="btn btn-primary" onclick="Mahasiswa.openTambah()">＋ Tambah Mahasiswa</button>
